@@ -30,3 +30,21 @@
 	width: 100%;
 	height: 400px;
 }
+
+#contactInfoDiv{
+	margin-top: 100px;
+}
+
+#contactText{
+	text-align: center;
+	font-size: 30px;
+}
+
+footer{
+	margin-top: 100px;
+	background: #2196f3 !important
+}
+
+.footerText{
+	color: #fff !important;
+}
